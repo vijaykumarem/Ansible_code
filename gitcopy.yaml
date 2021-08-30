@@ -1,0 +1,7 @@
+---
+- hosts: all
+  become: true
+  tasks:
+    - git:
+        repo: 'https://github.com/vijaykumarem/Ansible_code.git'
+        dest: /ubuntu/git
