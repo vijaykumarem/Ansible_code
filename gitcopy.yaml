@@ -1,8 +1,0 @@
----
-- hosts: all
-  become: true
-  become_user: ubuntu
-  tasks:
-    - git:
-        repo: 'https://github.com/vijaykumarem/Ansible_code.git'
-        dest: /ubuntu/git
