@@ -1,4 +1,0 @@
-Hi This is my test file add into my new repo 
-Hi this is my second updated in this file
-Hi this is a success updated. I have successfully created a ansible playbook for pull github
-Hi this just add a entry for checking 
